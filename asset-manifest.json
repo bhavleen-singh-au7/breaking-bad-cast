@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/css/main.adb0398d.chunk.css",
+    "main.js": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/main.6b0804a7.chunk.js",
+    "main.js.map": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/main.6b0804a7.chunk.js.map",
+    "runtime-main.js": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/runtime-main.e73fa23e.js",
+    "runtime-main.js.map": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/runtime-main.e73fa23e.js.map",
+    "static/js/2.f9503ed9.chunk.js": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/2.f9503ed9.chunk.js",
+    "static/js/2.f9503ed9.chunk.js.map": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/2.f9503ed9.chunk.js.map",
+    "index.html": "/bhavleen-singh-au7.github.io/breaking-bad-cast/index.html",
+    "precache-manifest.be1a651aec05ad8c2e43caec4941b9ac.js": "/bhavleen-singh-au7.github.io/breaking-bad-cast/precache-manifest.be1a651aec05ad8c2e43caec4941b9ac.js",
+    "service-worker.js": "/bhavleen-singh-au7.github.io/breaking-bad-cast/service-worker.js",
+    "static/css/main.adb0398d.chunk.css.map": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/css/main.adb0398d.chunk.css.map",
+    "static/js/2.f9503ed9.chunk.js.LICENSE.txt": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/js/2.f9503ed9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/bhavleen-singh-au7.github.io/breaking-bad-cast/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e73fa23e.js",
+    "static/js/2.f9503ed9.chunk.js",
+    "static/css/main.adb0398d.chunk.css",
+    "static/js/main.6b0804a7.chunk.js"
+  ]
+}
